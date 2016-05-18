@@ -1,0 +1,7 @@
+problems
+
+1.how to get the number of records in a table
+2. how to check if a sql command is successful
+3.form 14 and other forms rs.close when encountered shows an error that it is already cliosed but in reslity its not closed
+4. display all records of a table
+5. multiple queries in the same form
